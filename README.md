@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard-preview.png)
 # Excel Sales Dashboard Project
 
 ## Project Overview
